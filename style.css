@@ -398,6 +398,11 @@ header ul  li:hover{
     margin-top: 10rem;
     /* bottom: -10px; */
   }
+  
+  .chat{
+    font-size:1rem;
+    padding:10px 20px;
+  }
    
 
 
